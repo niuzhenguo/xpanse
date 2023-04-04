@@ -17,9 +17,9 @@ cloudServiceProvider:
   name: flexibleEngine
   regions:
     - name: eu-west-0
-      area: Western Europe
+      area: Europe
     - name: eu-west-1
-      area: Western Europe
+      area: Europe
 billing:
   # The business model(`flat`, `exponential`, ...)
   model: flat

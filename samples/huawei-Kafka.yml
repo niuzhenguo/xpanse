@@ -16,10 +16,38 @@ icon: |
 cloudServiceProvider:
   name: huawei
   regions:
-    - name: cn-southwest-2
-      area: Asia Pacific
+    - name: cn-north-1
+      area: Asia China
     - name: cn-north-4
-      area: North America
+      area: Asia China
+    - name: cn-north-9
+      area: Asia China
+    - name: cn-east-2
+      area: Asia China
+    - name: cn-east-3
+      area: Asia China
+    - name: cn-south-1
+      area: Asia China
+    - name: cn-south-2
+      area: Asia China
+    - name: na-mexico-1
+      area: Latin America
+    - name: la-south-2
+      area: Latin America
+    - name: eu-west-101
+      area: Europe
+    - name: cn-southwest-2
+      area: Asia China
+    - name: ap-southeast-2
+      area: Asia
+    - name: ap-southeast-3
+      area: Asia
+    - name: ae-ad-1
+      area: Asia
+    - name: ap-southeast-1
+      area: Asia China
+    - name: af-south-1
+      area: Africa
 billing:
   # The business model(`flat`, `exponential`, ...)
   model: flat
